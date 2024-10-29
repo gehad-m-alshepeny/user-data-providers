@@ -31,8 +31,8 @@
 
 <h3>1. Clone the Repository</h3>
 
-<pre><code>git clone https://github.com/your-repo/laravel-data-provider-api.git
-cd laravel-data-provider-api
+<pre><code>git clone https://github.com/gehad-m-alshepeny/user-data-providers.git
+cd user-data-providers
 </code></pre>
 
 <h3>2. Set Up Docker Environment</h3>
